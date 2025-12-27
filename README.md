@@ -1,5 +1,5 @@
 # 11 Bloatwares Removed (11BR)
-> **A humane, automated cleanup utility for Windows 11.**
+> **A clean, automated cleanup utility for Windows 11. Updates when I feel like it.**
 > Credits: @thaxtedstrings
 
 <div align="center">
